@@ -1,0 +1,20 @@
+{
+  "Welcome to {{siteTitle}}": "Welcome to {{siteTitle}}",
+  "News": "News",
+  "Pre Order": "Pre Order",
+  "en": "United Kingdom",
+  "de": "Deutschland",
+  "fr": "France",
+  "it": "Italia",
+  "es": "España",
+  "This is the Pre-Order page.": "This is the Pre-Order page.",
+  "Go to ignored page": "Go to ignored page",
+  "Go to page 2": "Go to page 2",
+  "Hi people": "Hi people",
+  "Home": "Home",
+  "Now go build something great.": "Now go build something great.",
+  "Welcome to your new Gatsby site.": "Welcome to your new Gatsby site.",
+  "404: Not found": "404: Not found",
+  "NOT FOUND": "NOT FOUND",
+  "You just hit a route that doesn't exist... the sadness.": "You just hit a route that doesn't exist... the sadness."
+}

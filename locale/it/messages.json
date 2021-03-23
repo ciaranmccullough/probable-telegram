@@ -1,0 +1,20 @@
+{
+  "Welcome to {{siteTitle}}": "Benvenuto su {{siteTitle}}",
+  "News": "Notizia",
+  "Pre Order": "Ordine prestabilito",
+  "en": "United Kingdom",
+  "de": "Deutschland",
+  "fr": "France",
+  "it": "Italia",
+  "es": "España",
+  "This is the Pre-Order page.": "Questa è la pagina del pre-ordine.",
+  "Go to ignored page": "Vai alla pagina ignorata",
+  "Go to page 2": "Vai alla pagina 2",
+  "Welcome to your new Gatsby site.": "Benvenuto nel tuo nuovo sito Gatsby.",
+  "Hi people": "Ciao gente",
+  "Now go build something great.": "Ora vai a costruire qualcosa di grande.",
+  "Home": "Casa",
+  "NOT FOUND": "NON TROVATO",
+  "You just hit a route that doesn't exist... the sadness.": "Hai appena toccato una strada che non esiste... la tristezza.",
+  "404: Not found": "404: Non trovato"
+}
